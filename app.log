@@ -1,0 +1,16 @@
+2025-04-01 12:07:38.285 | INFO     | __main__:verify_login:70 - User 'waiter' logged in with role 'waiter'
+2025-04-01 12:08:40.159 | INFO     | pdf_generator:generate_kot_pdf:154 - KOT PDF saved: kots\kot_3-9.pdf
+2025-04-01 12:08:55.348 | INFO     | kot:update_order_for_table:328 - Order details saved for table 3 with KOT 3-9
+2025-04-01 12:09:13.011 | INFO     | pdf_generator:generate_bill_pdf:247 - Bill PDF saved: bills/bill_3-9-BILL.pdf
+2025-04-01 12:09:25.516 | INFO     | billing:generate_bill_for_table:235 - Bill PDF saved: bills/bill_3-9-BILL.pdf
+2025-04-01 12:11:24.459 | INFO     | __main__:verify_login:70 - User 'admin' logged in with role 'admin'
+2025-04-10 17:43:52.546 | INFO     | __main__:verify_login:70 - User 'admin' logged in with role 'admin'
+2025-04-10 17:45:36.765 | INFO     | pdf_generator:generate_kot_pdf:154 - KOT PDF saved: kots\kot_1-10-36.pdf
+2025-04-10 17:45:58.925 | INFO     | kot:update_order_for_table:328 - Order details saved for table 1 with KOT 1-10-36
+2025-04-10 17:46:08.263 | INFO     | pdf_generator:generate_bill_pdf:247 - Bill PDF saved: bills/bill_1-10-36-BILL.pdf
+2025-04-10 17:46:25.171 | INFO     | billing:generate_bill_for_table:235 - Bill PDF saved: bills/bill_1-10-36-BILL.pdf
+2025-04-10 18:27:44.400 | INFO     | __main__:verify_login:70 - User 'admin' logged in with role 'admin'
+2025-04-10 18:29:07.204 | INFO     | pdf_generator:generate_kot_pdf:154 - KOT PDF saved: kots\kot_5-10-07.pdf
+2025-04-10 18:29:16.016 | INFO     | kot:update_order_for_table:328 - Order details saved for table 5 with KOT 5-10-07
+2025-04-10 18:29:34.649 | INFO     | pdf_generator:generate_bill_pdf:247 - Bill PDF saved: bills/bill_5-10-07-BILL.pdf
+2025-04-10 18:29:42.175 | INFO     | billing:generate_bill_for_table:235 - Bill PDF saved: bills/bill_5-10-07-BILL.pdf
